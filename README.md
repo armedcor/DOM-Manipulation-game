@@ -1,3 +1,3 @@
 # DOM-Manipulation-game
 
-A basic game built to exhibit DOM manipulation
+A basic dice game built to exhibit DOM manipulation.
